@@ -87,7 +87,7 @@ Exemplo:
 
   "ConnectionStrings": {
 
-    "DefaultConnection": "Server=localhost;Database=ChamaNoPet;Trusted_Connection=True;TrustServerCertificate=True;"
+    "DefaultConnection": "Server=localhost;Database=dbMerceariaMVC;Trusted_Connection=True;TrustServerCertificate=True;"
 
   }
 
