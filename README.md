@@ -115,7 +115,7 @@ Exemplo:
 
 ```bash
 
-https://github.com/guilherme-ogreofcodes/TelainicialCrud.git
+https://github.com/guilherme-ogreofcodes/MerceariaMVC.git
 
 ```
 
